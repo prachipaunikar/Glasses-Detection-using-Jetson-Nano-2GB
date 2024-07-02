@@ -184,14 +184,16 @@ source '0' for webcam
 • The model tries to solve the problem of glasses detection to enhance virtual try-on experiences for eyewear used in E-commerce platforms and retail stores.
 • The model is efficient and highly accurate and hence reduces the workforce required.
 
-Reference
+## Reference
+
 1] Roboflow:- https://roboflow.com/
 
 2] Datasets or images used :- https://www.gettyimages.ae/search/2/image?phrase=glasses&sort=mostpopular&license=rf%2Crm
 
 3] Google images
 
-Articles :-
+## Articles :-
+
 1] https://www.kaggle.com/datasets/jeffheaton/glasses-or-no-glasses
 
 2] https://www.kaggle.com/datasets/egorovlvan/glasses-dataset
