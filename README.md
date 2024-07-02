@@ -184,15 +184,4 @@ source '0' for webcam
 • The model tries to solve the problem of glasses detection to enhance virtual try-on experiences for eyewear used in E-commerce platforms and retail stores.
 • The model is efficient and highly accurate and hence reduces the workforce required.
 
-## Reference
 
-1] Roboflow:- https://roboflow.com/
-
-2] Datasets or images used :- https://www.gettyimages.ae/search/2/image?phrase=helmet
-
-3] Google images
-
-Articles :-
-1] https://www.bajajallianz.com/blog/motor-insurance-articles/what-is-the-importance-of-wearing-a-helmet-while-riding-your-two-wheeler.html#:~:text=Helmet%20is%20effective%20in%20reducing,are%20not%20wearing%20a%20helmet.
-
-2] https://www.findlaw.com/injury/car-accidents/helmet-laws-and-motorcycle-accident-cases.html
