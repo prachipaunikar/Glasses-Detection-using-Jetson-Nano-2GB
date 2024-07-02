@@ -49,6 +49,9 @@ To create a Glasses detection system which will detect Human eyes and then check
 
 ## Nano Jetson 2gb
 
+![image](https://github.com/prachipaunikar/Glasses-Detection-using-Jetson-Nano-2GB/assets/147481200/7d2dd01c-329e-4a82-8c73-74429003afdd)
+
+
 ## Proposed System
 
 1] Study basics of machine learning and image recognition.
