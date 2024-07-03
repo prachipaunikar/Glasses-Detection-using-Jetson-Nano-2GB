@@ -6,6 +6,24 @@
 
 To create a Glasses detection system which will detect Human eyes and then check if Glasses is worn or not.
 
+### Demo
+
+
+
+
+
+https://github.com/prachipaunikar/Glasses-Detection-using-Jetson-Nano-2GB/assets/147481200/9ff22f19-db84-439a-9bf6-e303c33825ee
+
+### link:- https://youtu.be/3JSmUSvM_1c
+
+
+
+
+https://github.com/prachipaunikar/Glasses-Detection-using-Jetson-Nano-2GB/assets/147481200/7a67ad7c-62ba-4813-9092-71cd8a981d37
+
+### link:- https://youtube.com/shorts/nJ6NLlKIIUw
+
+
 ### Objective
 
 • The main objective of the project is to create a program which can be either run on Jetson nano or any pc with YOLOv5 installed and start detecting using the camera module on the device.
